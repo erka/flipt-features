@@ -6,4 +6,4 @@ flags:
     - key: flag1
       name: flag1
       type: VARIANT_FLAG_TYPE
-      enabled: false
+      enabled: true

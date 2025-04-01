@@ -10,4 +10,4 @@ flags:
     - key: bool
       name: bool
       type: BOOLEAN_FLAG_TYPE
-      enabled: false
+      enabled: true

@@ -6,7 +6,7 @@ flags:
     - key: flag1
       name: flag1
       type: VARIANT_FLAG_TYPE
-      enabled: true
+      enabled: false
       variants:
         - default: true
           key: dark
